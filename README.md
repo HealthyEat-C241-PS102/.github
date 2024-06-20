@@ -1,1 +1,1 @@
-# .github
+# HealthyEat - Product-Based Capstone
