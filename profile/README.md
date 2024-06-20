@@ -1,4 +1,4 @@
-## Hi there 👋
+## HealthyEat (Product-Based Capstone) - Diet with Intention, Live with Purpose
 
 <!--
 
