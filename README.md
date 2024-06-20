@@ -1,1 +1,0 @@
-# HealthyEat - Product-Based Capstone
