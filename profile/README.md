@@ -1,6 +1,6 @@
-## HealthyEat (Product-Based Capstone) - Diet with Intention, Live with Purpose
+# HealthyEat (Product-Based Capstone) - Diet with Intention, Live with Purpose
 
-# Team
+## Team
 Our team consists of 7 People:
 | Full Name  | Bangkit ID | Role |
 | ------------- | ------------- | ------------- |
