@@ -3,7 +3,7 @@
 Diet is essential for health and well-being, providing nutrients vital for bodily functions and disease prevention. However, many struggle due to busy lifestyles, limited nutritional knowledge, and a preference for convenient but unhealthy foods. Processed foods high in sugars, fats, and additives are prevalent, contributing to health issues like obesity and diabetes.
 To promote a healthier lifestyle without stress, understanding the nutritional value of foods is key. By emphasizing whole foods—such as fruits, vegetables, lean proteins, and whole grains—rich in essential nutrients, individuals can make informed dietary choices. This approach supports long-term health goals and fosters sustainable dietary habits.
 
-## Due to limited nutritional information, we created an app to detect and provide detailed nutritional content of fruits
+### Due to limited nutritional information, we created an app to detect and provide detailed nutritional content of fruits
 
 ## Team
 Our team consists of 7 People:
